@@ -1,0 +1,52 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+img 
+{
+	border-radius:10px;
+	width:125px;
+	height:125px;
+	margin-left:28px;
+}
+
+.banner
+{
+	padding-left:28px;
+	padding-top:125px;
+}
+
+.content
+{
+	font-family: 'Raleway',sans-serif;
+	font-size:28px;
+    
+}
+
+.content p {
+	color:gray;
+	padding-bottom:10px;
+	font-size:25px;
+}
+
+.content2 p
+{
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	text-indent:32px;
+	padding-bottom:10px;
+	font-size:25px;
+}
+
+.content2 i
+{
+	color:#00dcffb8;
+	font-size:28px;
+}
+.cont{
+	display:flex;
+	align-items:center;
+}
